@@ -1,3 +1,3 @@
 # python-yt-downloader
-youtube video downloader 
-next update is add song to download
+youtube downloader
+can download video or audio only
