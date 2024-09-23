@@ -1,4 +1,4 @@
-from pytube import YouTube, Playlist, Search
+from pytube import YouTube, Search
 from datetime import datetime
 import os
 
